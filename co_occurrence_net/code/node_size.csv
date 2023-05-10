@@ -1,0 +1,231 @@
+Id,Label,Integer
+Clinical Research,Clinical Research,904
+Contraception/Reproduction,Contraception/Reproduction,28
+Data Science,Data Science,2763
+Digestive Diseases,Digestive Diseases,65
+Genetics,Genetics,765
+Human Genome,Human Genome,628
+Liver Disease,Liver Disease,19
+Maternal Health,Maternal Health,15
+Microbiome,Microbiome,51
+Minority Health,Minority Health,335
+Pediatric,Pediatric,236
+Perinatal Period - Conditions Originating in Perinatal Period,Perinatal Period - Conditions Originating in Perinatal Period,39
+Pregnancy,Pregnancy,18
+"Preterm, Low Birth Weight and Health of the Newborn","Preterm, Low Birth Weight and Health of the Newborn",21
+Women's Health,Women's Health,317
+Bioengineering,Bioengineering,1405
+Infectious Diseases,Infectious Diseases,288
+Orphan Drug,Orphan Drug,51
+Rare Diseases,Rare Diseases,212
+Vector-Borne Diseases,Vector-Borne Diseases,31
+Coronaviruses,Coronaviruses,91
+Emerging Infectious Diseases,Emerging Infectious Diseases,178
+HIV/AIDS,HIV/AIDS,91
+Health Disparities,Health Disparities,350
+Networking and Information Technology R&D (NITRD),Networking and Information Technology R&D (NITRD),2117
+Eye Disease and Disorders of Vision,Eye Disease and Disorders of Vision,47
+Neurosciences,Neurosciences,600
+Endocrine Disruptors,Endocrine Disruptors,13
+Machine Learning and Artificial Intelligence,Machine Learning and Artificial Intelligence,990
+Prevention,Prevention,527
+Acquired Cognitive Impairment,Acquired Cognitive Impairment,147
+Aging,Aging,309
+Alzheimer's Disease,Alzheimer's Disease,135
+Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD),Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD),142
+Brain Disorders,Brain Disorders,454
+Chronic Pain,Chronic Pain,26
+Dementia,Dementia,144
+Hematology,Hematology,52
+Neurodegenerative,Neurodegenerative,192
+Pain Research,Pain Research,41
+Precision Medicine,Precision Medicine,380
+Sickle Cell Disease,Sickle Cell Disease,7
+Complementary and Integrative Health,Complementary and Integrative Health,5
+Dental/Oral and Craniofacial Disease,Dental/Oral and Craniofacial Disease,34
+Health Services,Health Services,203
+Lung,Lung,92
+Patient Safety,Patient Safety,232
+Pneumonia,Pneumonia,17
+Pneumonia & Influenza,Pneumonia & Influenza,24
+Immunization,Immunization,34
+Vaccine Related,Vaccine Related,31
+Biodefense,Biodefense,73
+Biotechnology,Biotechnology,609
+Behavioral and Social Science,Behavioral and Social Science,499
+Clinical Trials and Supportive Activities,Clinical Trials and Supportive Activities,96
+Emergency Care,Emergency Care,16
+Social Determinants of Health,Social Determinants of Health,217
+Substance Misuse,Substance Misuse,76
+Biomedical Imaging,Biomedical Imaging,241
+Opioid Misuse and Addiction,Opioid Misuse and Addiction,52
+Opioids,Opioids,62
+Vaccine Related (AIDS),Vaccine Related (AIDS),3
+Bipolar Disorder,Bipolar Disorder,13
+Depression,Depression,31
+Mental Health,Mental Health,269
+Mental Illness,Mental Illness,90
+Serious Mental Illness,Serious Mental Illness,48
+Cancer,Cancer,442
+Cancer Genomics,Cancer Genomics,220
+American Indian or Alaska Native,American Indian or Alaska Native,13
+Coronaviruses Disparities and At-Risk Populations,Coronaviruses Disparities and At-Risk Populations,13
+Rural Health,Rural Health,38
+Sexually Transmitted Infections,Sexually Transmitted Infections,4
+Sexual and Gender Minorities (SGM/LGBT*),Sexual and Gender Minorities (SGM/LGBT*),4
+Basic Behavioral and Social Science,Basic Behavioral and Social Science,190
+Diabetes,Diabetes,20
+Maternal Morbidity and Mortality,Maternal Morbidity and Mortality,5
+Suicide,Suicide,14
+Nutrition,Nutrition,32
+Obesity,Obesity,22
+Anxiety Disorders,Anxiety Disorders,15
+Attention Deficit Hyperactivity Disorder (ADHD),Attention Deficit Hyperactivity Disorder (ADHD),4
+Autism,Autism,19
+Intellectual and Developmental Disabilities (IDD),Intellectual and Developmental Disabilities (IDD),32
+Schizophrenia,Schizophrenia,23
+Urologic Diseases,Urologic Diseases,28
+Climate Change,Climate Change,8
+Climate-Related Exposures and Conditions,Climate-Related Exposures and Conditions,32
+Conditions Affecting the Embryonic and Fetal Periods,Conditions Affecting the Embryonic and Fetal Periods,14
+Cardiovascular,Cardiovascular,117
+Cerebrovascular,Cerebrovascular,26
+Cost Effectiveness Research,Cost Effectiveness Research,8
+Heart Disease,Heart Disease,77
+Stroke,Stroke,22
+Coronaviruses Diagnostics and Prognostics,Coronaviruses Diagnostics and Prognostics,9
+Physical Activity,Physical Activity,22
+Antimicrobial Resistance,Antimicrobial Resistance,15
+Tuberculosis,Tuberculosis,5
+Cervical Cancer,Cervical Cancer,2
+Malaria,Malaria,9
+Congenital Heart Disease,Congenital Heart Disease,6
+Congenital Structural Anomalies,Congenital Structural Anomalies,22
+Comparative Effectiveness Research,Comparative Effectiveness Research,38
+Telehealth,Telehealth,16
+Sleep Research,Sleep Research,21
+Spina Bifida,Spina Bifida,1
+Breast Cancer,Breast Cancer,36
+Mind and Body,Mind and Body,23
+Caregiving Research,Caregiving Research,11
+Drug Abuse (NIDA only),Drug Abuse (NIDA only),132
+Methamphetamine,Methamphetamine,3
+Substance Abuse,Substance Abuse,91
+Dissemination and Implementation Research,Dissemination and Implementation Research,23
+Physical Injury - Accidents and Adverse Effects,Physical Injury - Accidents and Adverse Effects,43
+Suicide Prevention,Suicide Prevention,3
+Brain Cancer,Brain Cancer,15
+Pediatric Cancer,Pediatric Cancer,26
+Hypertension,Hypertension,16
+Neonatal Respiratory Distress,Neonatal Respiratory Distress,7
+Kidney Disease,Kidney Disease,32
+"Alcoholism, Alcohol Use and Health","Alcoholism, Alcohol Use and Health",27
+Asthma,Asthma,6
+Arthritis,Arthritis,34
+Autoimmune Disease,Autoimmune Disease,40
+Sepsis,Sepsis,16
+Dietary Supplements,Dietary Supplements,1
+Lymphatic Research,Lymphatic Research,2
+Regenerative Medicine,Regenerative Medicine,4
+Rheumatoid Arthritis,Rheumatoid Arthritis,9
+Hepatitis,Hepatitis,7
+Hepatitis - C,Hepatitis - C,7
+Colo-Rectal Cancer,Colo-Rectal Cancer,12
+Prostate Cancer,Prostate Cancer,13
+Macular Degeneration,Macular Degeneration,4
+Genetic Testing,Genetic Testing,12
+Injury (total) Accidents/Adverse Effects,Injury (total) Accidents/Adverse Effects,9
+Prescription Drug Abuse,Prescription Drug Abuse,11
+Back Pain,Back Pain,5
+Injury - Trauma - (Head and Spine),Injury - Trauma - (Head and Spine),12
+Injury - Traumatic brain injury,Injury - Traumatic brain injury,12
+Post-Traumatic Stress Disorder (PTSD),Post-Traumatic Stress Disorder (PTSD),10
+Assistive Technology,Assistive Technology,21
+Alzheimer's Disease Related Dementias (ADRD),Alzheimer's Disease Related Dementias (ADRD),13
+Frontotemporal Dementia (FTD),Frontotemporal Dementia (FTD),6
+Burden of Illness,Burden of Illness,5
+Chronic Obstructive Pulmonary Disease,Chronic Obstructive Pulmonary Disease,3
+Inflammatory Bowel Disease,Inflammatory Bowel Disease,6
+Liver Cancer,Liver Cancer,6
+ALS,ALS,7
+Atherosclerosis,Atherosclerosis,10
+Traumatic Brain Injury (TBI),Traumatic Brain Injury (TBI),10
+Traumatic Head and Spine Injury,Traumatic Head and Spine Injury,10
+Crohn's Disease,Crohn's Disease,4
+Major Depressive Disorder,Major Depressive Disorder,5
+Osteoarthritis,Osteoarthritis,9
+Substance Abuse Prevention,Substance Abuse Prevention,5
+Tobacco,Tobacco,10
+Tobacco Smoke and Health,Tobacco Smoke and Health,9
+Ovarian Cancer,Ovarian Cancer,3
+Rehabilitation,Rehabilitation,31
+Electronic Nicotine Delivery Systems,Electronic Nicotine Delivery Systems,2
+Underage Drinking,Underage Drinking,6
+Down Syndrome,Down Syndrome,7
+Osteogenesis Imperfecta,Osteogenesis Imperfecta,1
+Cerebral Palsy,Cerebral Palsy,5
+Physical Rehabilitation,Physical Rehabilitation,18
+Aphasia,Aphasia,5
+Parkinson's Disease,Parkinson's Disease,4
+Childhood Obesity,Childhood Obesity,7
+Epilepsy,Epilepsy,18
+Radiation Oncology,Radiation Oncology,11
+Endometriosis,Endometriosis,3
+Hearing Loss,Hearing Loss,5
+Spinal Cord Injury,Spinal Cord Injury,4
+Pancreatic Cancer,Pancreatic Cancer,10
+Lung Cancer,Lung Cancer,21
+Malaria Vaccine,Malaria Vaccine,1
+Heart Disease - Coronary Heart Disease,Heart Disease - Coronary Heart Disease,7
+Multiple Sclerosis,Multiple Sclerosis,5
+Lupus,Lupus,5
+Muscular Dystrophy,Muscular Dystrophy,3
+Stem Cell Research,Stem Cell Research,19
+Stem Cell Research - Induced Pluripotent Stem Cell,Stem Cell Research - Induced Pluripotent Stem Cell,12
+Stem Cell Research - Induced Pluripotent Stem Cell - Human,Stem Cell Research - Induced Pluripotent Stem Cell - Human,10
+Stem Cell Research - Nonembryonic - Human,Stem Cell Research - Nonembryonic - Human,3
+Wound Healing and Care,Wound Healing and Care,2
+Psoriasis,Psoriasis,1
+Influenza,Influenza,9
+Pediatric Research Initiative,Pediatric Research Initiative,9
+Estrogen,Estrogen,3
+Cannabinoid Research,Cannabinoid Research,2
+Stem Cell Research - Nonembryonic - Non-Human,Stem Cell Research - Nonembryonic - Non-Human,3
+Immunotherapy,Immunotherapy,30
+Violence Research,Violence Research,1
+Youth Violence,Youth Violence,1
+Eating Disorders,Eating Disorders,5
+Vascular Cognitive Impairment/Dementia,Vascular Cognitive Impairment/Dementia,3
+Stomach Cancer,Stomach Cancer,1
+Foodborne Illness,Foodborne Illness,4
+Childhood Injury,Childhood Injury,2
+Coronaviruses Therapeutics and Interventions,Coronaviruses Therapeutics and Interventions,7
+"Breastfeeding, Lactation and Breast Milk","Breastfeeding, Lactation and Breast Milk",1
+Stem Cell Research - Embryonic - Human,Stem Cell Research - Embryonic - Human,5
+Transplantation,Transplantation,3
+Attention Deficit Disorder (ADD),Attention Deficit Disorder (ADD),5
+Nanotechnology,Nanotechnology,4
+Childhood Leukemia,Childhood Leukemia,4
+Lead Poisoning,Lead Poisoning,4
+Stem Cell Research - Embryonic - Non-Human,Stem Cell Research - Embryonic - Non-Human,1
+Stem Cell Research - Induced Pluripotent Stem Cell - Non-Human,Stem Cell Research - Induced Pluripotent Stem Cell - Non-Human,3
+Neurofibromatosis,Neurofibromatosis,1
+Screening And Brief Intervention For Substance Abuse,Screening And Brief Intervention For Substance Abuse,1
+Lymphoma,Lymphoma,1
+Infertility,Infertility,3
+Organ Transplantation,Organ Transplantation,2
+Emphysema,Emphysema,1
+Chronic Liver Disease and Cirrhosis,Chronic Liver Disease and Cirrhosis,2
+Acute Respiratory Distress Syndrome,Acute Respiratory Distress Syndrome,10
+Dystonia,Dystonia,1
+HPV and/or Cervical Cancer Vaccines,HPV and/or Cervical Cancer Vaccines,1
+Cystic Fibrosis,Cystic Fibrosis,3
+West Nile Virus,West Nile Virus,1
+Infant Mortality,Infant Mortality,2
+Celiac Disease,Celiac Disease,1
+Lyme Disease,Lyme Disease,2
+Lewy Body Dementia,Lewy Body Dementia,1
+Pediatric AIDS,Pediatric AIDS,1
+Gene Therapy,Gene Therapy,2
+Scleroderma,Scleroderma,1
+Health Effects of Indoor Air Pollution,Health Effects of Indoor Air Pollution,3
